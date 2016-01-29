@@ -16,12 +16,6 @@ Cloud Control Panel by clicking your name in the upper-right corner and
 selecting [Cloud Sites Control
 Panel](https://manage.rackspacecloud.com/).
 
-### Previous section
-
-[Getting Started with Cloud
-Sites](/how-to/cloud-sites)
-
-
 
 ### Hello and welcome to the Rackspace Cloud!
 
@@ -105,8 +99,5 @@ That just about covers the basic navigation of the Control Panel.  In
 the next article, Accessing Billing Information, you will learn the
 details of the Billing portion of your Control Panel.
 
-#### Next section
 
-[Accessing billing
-information](/how-to/getting-started-with-cloud-sites-accessing-billing-information)
-
+#### [&lt; Getting Started with Cloud Sites](/how-to/cloud-sites)    -   [Accessing billing information &gt;](/how-to/getting-started-with-cloud-sites-accessing-billing-information)
